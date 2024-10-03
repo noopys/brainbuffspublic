@@ -6,7 +6,7 @@ In order to deliver a commercial grade platform, the Brain Buffs Architecture re
 
 
 #### Architecture Diagram 
-![[BrainBuffsDiagram.png]]
+![Brain Buffs Architecture Diagram](BrainBuffsDiagram.png)
 #### React App
 The frontend of Brain Buffs is built on React, leveraging its component-based architecture. Utilizing React provided us with the flexibility to craft a custom UI while capitalizing on the extensive ecosystem of reusable components. Tailwind CSS, a utility-first CSS framework, is employed for styling, enabling rapid and consistent design implementation and easy understanding of design choices in code. 
 
